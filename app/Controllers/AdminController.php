@@ -562,7 +562,7 @@ class AdminController extends Controller
         $message .= "Username: {$username}\n";
         $message .= "Password: {$password}";
 
-        $token = "6uvnt+rm7NH7m3weN5zs";
+        $token = "";
 
         $curl = curl_init();
 

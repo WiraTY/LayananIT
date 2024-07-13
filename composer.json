@@ -11,7 +11,12 @@
     },
     "require": {
         "php": "^8.1",
-        "codeigniter4/framework": "^4.0"
+        "codeigniter4/framework": "^4.0",
+        "endroid/qr-code": "^5.0",
+        "mpdf/mpdf": "^6.1",
+        "myth/auth": "^1.2",
+        "phpmailer/phpmailer": "^6.9",
+        "tecnickcom/tcpdf": "^6.7"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9",

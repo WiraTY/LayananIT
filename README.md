@@ -1,3 +1,16 @@
+# CompanyProfile
+ 
+<img src="https://github.com/user-attachments/assets/d597880d-c0e6-45eb-b9ce-90f250cf8b59" width="1000" height="500">
+<img src="https://github.com/user-attachments/assets/3734b6ae-2271-4f06-a840-2a5067163ae1" width="1000" height="500">
+<img src="https://github.com/user-attachments/assets/1c224928-f926-4783-b9e5-28e75e8a02e9" width="1000" height="500">
+<img src="https://github.com/WiraTY/CompanyProfile/assets/108583774/298d79b3-d8a9-4abf-a877-d83ed88b1de6" width="1000" height="500">
+
+![image](https://github.com/user-attachments/assets/d597880d-c0e6-45eb-b9ce-90f250cf8b59)
+![image](https://github.com/user-attachments/assets/3734b6ae-2271-4f06-a840-2a5067163ae1)
+![image](https://github.com/user-attachments/assets/1c224928-f926-4783-b9e5-28e75e8a02e9)
+
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
